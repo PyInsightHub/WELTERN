@@ -12,3 +12,44 @@ The Student Management System allows users to manage student records through a m
 It supports essential CRUD operations and provides a structured way to store, update, and retrieve student data dynamically.
 
 ---
+✨ Features
+
+📋 Menu-driven console application
+
+➕ Add new student records
+
+📖 View all students
+
+✏️ Update existing student details
+
+❌ Delete student records
+
+🔍 Search students by Student ID
+
+🧠 Dynamic data handling using ArrayList
+
+---
+🛠️ Tech Stack
+
+Java
+
+Object-Oriented Programming (OOP)
+
+ArrayList
+
+Console Application
+
+---
+
+🧩 OOP Concepts Used
+
+Classes & Objects
+
+Methods
+
+Encapsulation
+
+Data abstraction through structured logic
+
+---
+📂 Project Structure
