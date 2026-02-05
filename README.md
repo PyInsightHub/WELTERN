@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Data Analysis
 
-End-to-End Data Analytics Project | Internship – Week 1 (Weltern)
+End-to-End Data Analytics  | Internship – Week 1 (Weltern)
 
 # 📌 Project Overview
 
