@@ -80,3 +80,7 @@ Data Visualization
 Working with Large Datasets
 
 ---
+# 📁 Project Structure
+Week 1
+
+---
