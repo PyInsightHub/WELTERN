@@ -1,21 +1,21 @@
-# 📊 Amazon Sales Data Analysis (Internship - Week 2)
-## 📝 Project Overview
+# 📊𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 (𝐓𝐚𝐬𝐤 - 𝐖𝐞𝐞𝐤 𝟐)
+## 📝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 ***This project focuses on performing an end-to-end Exploratory Data Analysis (EDA) on an Amazon Sales dataset containing over 100,000 records. The goal was to clean the data, identify sales trends, and extract actionable insights regarding product performance and regional sales distribution.***
 
 ---
-## 🎯 Task Objectives:
+## 🎯 𝐓𝐚𝐬𝐤 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬:
 **Data Cleaning:** *Handle missing and inconsistent data to ensure integrity.*
 
 **Visualization:** *Create meaningful visual reports to identify monthly trends and best-selling products.*
 
 ---
-## 🛠️ Technical Stack
+## 🛠️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐭𝐚𝐜𝐤
 **Language:** *Python*
 
 **Libraries:** *Pandas (Data Manipulation), Matplotlib & Seaborn (Data Visualization), NumPy.*
 
 ---
-## 🔍 Key Insights & Findings
+## 🔍 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 & 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 ***1. Sales Performance***
 **Total Revenue:** *The dataset tracks significant volume, with monthly sales averaging approximately $1.5 million.*
 
@@ -38,5 +38,5 @@
 **Preferred Method:** *Credit Cards are the dominant payment choice, totaling $32.12M, followed by Debit Cards and E-wallets.*
 
 ---
-## 📁 Project Structure
+## 📁 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 *Week 2*
